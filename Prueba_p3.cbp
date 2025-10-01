@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Prueba_p3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Prueba_p3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Prueba_p3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Aeropuerto.h" />
+		<Unit filename="include/Arbol.h" />
+		<Unit filename="include/Box.h" />
+		<Unit filename="include/CeldaLista.h" />
+		<Unit filename="include/CeldaListaPas.h" />
+		<Unit filename="include/Cola.h" />
+		<Unit filename="include/Lista.h" />
+		<Unit filename="include/ListaPasajeros.h" />
+		<Unit filename="include/NodoArbol.h" />
+		<Unit filename="include/NodoCola.h" />
+		<Unit filename="include/NodoPila.h" />
+		<Unit filename="include/Pasajero.h" />
+		<Unit filename="include/Pila.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Aeropuerto.cpp" />
+		<Unit filename="src/Arbol.cpp" />
+		<Unit filename="src/Box.cpp" />
+		<Unit filename="src/CeldaLista.cpp" />
+		<Unit filename="src/CeldaListaPas.cpp" />
+		<Unit filename="src/Cola.cpp" />
+		<Unit filename="src/Lista.cpp" />
+		<Unit filename="src/ListaPasajeros.cpp" />
+		<Unit filename="src/NodoArbol.cpp" />
+		<Unit filename="src/NodoCola.cpp" />
+		<Unit filename="src/NodoPila.cpp" />
+		<Unit filename="src/Pasajero.cpp" />
+		<Unit filename="src/Pila.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

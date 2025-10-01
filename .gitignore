@@ -1,0 +1,36 @@
+# Compilados / binarios
+*.o
+*.obj
+*.exe
+*.out
+
+# Librerías generadas
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Archivos comprimidos
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Carpetas de compilación
+build/
+bin/
+cmake-build-*/
+out/
+target/
+
+# Archivos de IDEs / editores
+.vscode/
+.idea/
+*.code-workspace
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini

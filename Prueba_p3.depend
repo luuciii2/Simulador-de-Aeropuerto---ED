@@ -1,0 +1,512 @@
+# depslib dependency file v1.0
+1731523714 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\box.cpp
+	"Box.h"
+	<iostream>
+	"Pasajero.h"
+
+1731522974 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\box.h
+	<iostream>
+	"Pasajero.h"
+	"Cola.h"
+
+1731523306 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\pasajero.h
+	<string>
+
+1731523045 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\cola.h
+	"NodoCola.h"
+
+1731523103 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\nodocola.h
+	"Pasajero.h"
+
+1731522916 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\celdalista.cpp
+	"CeldaLista.h"
+
+1731522916 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\celdalista.h
+	"Box.h"
+
+1731523045 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\cola.cpp
+	<iostream>
+	"Cola.h"
+	"NodoCola.h"
+
+1731522799 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1731522799 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\lista.h
+	"CeldaLista.h"
+
+1731523103 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\nodocola.cpp
+	<iostream>
+	"NodoCola.h"
+
+1731523262 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\nodopila.cpp
+	<iostream>
+	"NodoPila.h"
+
+1731523262 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\nodopila.h
+	"Pasajero.h"
+
+1731523306 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\pasajero.cpp
+	<iostream>
+	"Pasajero.h"
+
+1731523218 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\pila.cpp
+	<iostream>
+	"Pila.h"
+	"Pasajero.h"
+
+1731523218 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\pila.h
+	"Pasajero.h"
+	"NodoPila.h"
+
+1731523346 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\main.cpp
+	<iostream>
+	"Pasajero.h"
+	"Pila.h"
+	"Aeropuerto.h"
+
+1731523513 c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\include\aeropuerto.h
+	"Pila.h"
+	"Cola.h"
+	"Box.h"
+	"Lista.h"
+
+1731523769 source:c:\users\lucía\documents\universidad\curso 3\curso 3 cuatri 1\eedd\prueba_p3\src\aeropuerto.cpp
+	<iostream>
+	"Aeropuerto.h"
+	"Pasajero.h"
+	"Pila.h"
+	"Cola.h"
+	"Lista.h"
+	"Box.h"
+	<string>
+
+1731523346 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\main.cpp
+	<iostream>
+	"Pasajero.h"
+	"Pila.h"
+	"Aeropuerto.h"
+
+1731523306 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\pasajero.h
+	<string>
+
+1731523218 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\pila.h
+	"Pasajero.h"
+	"NodoPila.h"
+
+1731523262 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\nodopila.h
+	"Pasajero.h"
+
+1731523513 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\aeropuerto.h
+	"Pila.h"
+	"Cola.h"
+	"Box.h"
+	"Lista.h"
+
+1731523045 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\cola.h
+	"NodoCola.h"
+
+1731523103 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\nodocola.h
+	"Pasajero.h"
+
+1731522974 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\box.h
+	<iostream>
+	"Pasajero.h"
+	"Cola.h"
+
+1731522799 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\lista.h
+	"CeldaLista.h"
+
+1731522916 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\include\celdalista.h
+	"Box.h"
+
+1731617136 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\aeropuerto.cpp
+	<iostream>
+	"Aeropuerto.h"
+	"Pasajero.h"
+	"Pila.h"
+	"Cola.h"
+	"Lista.h"
+	"Box.h"
+	<string>
+
+1731523900 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\box.cpp
+	"Box.h"
+	<iostream>
+	"Pasajero.h"
+
+1731522916 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\celdalista.cpp
+	"CeldaLista.h"
+
+1731614103 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\cola.cpp
+	<iostream>
+	"Cola.h"
+	"NodoCola.h"
+
+1731522799 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1731523103 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\nodocola.cpp
+	<iostream>
+	"NodoCola.h"
+
+1731523262 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\nodopila.cpp
+	<iostream>
+	"NodoPila.h"
+
+1731523306 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\pasajero.cpp
+	<iostream>
+	"Pasajero.h"
+
+1731523218 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\prueba_p3_actual\src\pila.cpp
+	<iostream>
+	"Pila.h"
+	"Pasajero.h"
+
+1733399815 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<algorithm>
+	<limits>
+	"Pasajero.h"
+	"Pila.h"
+	"Aeropuerto.h"
+
+1732622396 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\pasajero.h
+	<string>
+
+1731625782 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\pila.h
+	"Pasajero.h"
+	"NodoPila.h"
+
+1731523262 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\nodopila.h
+	"Pasajero.h"
+
+1733399273 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\aeropuerto.h
+	<vector>
+	"Pila.h"
+	"Cola.h"
+	"Box.h"
+	"Lista.h"
+	"Arbol.h"
+
+1731523044 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\cola.h
+	"NodoCola.h"
+
+1731523102 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\nodocola.h
+	"Pasajero.h"
+
+1732811841 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\box.h
+	<iostream>
+	"Pasajero.h"
+	"Cola.h"
+
+1732818644 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\lista.h
+	"CeldaLista.h"
+
+1731522916 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\celdalista.h
+	"Box.h"
+
+1733599649 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\aeropuerto.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Aeropuerto.h"
+	"Pasajero.h"
+	"Pila.h"
+	"Cola.h"
+	"Lista.h"
+	"Box.h"
+	"Arbol.h"
+
+1733327771 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\box.cpp
+	"Box.h"
+	<iostream>
+	"Pasajero.h"
+
+1731522916 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\celdalista.cpp
+	"CeldaLista.h"
+
+1733323315 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\cola.cpp
+	<iostream>
+	<iomanip>
+	"Cola.h"
+	"NodoCola.h"
+
+1732818644 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1731523102 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\nodocola.cpp
+	<iostream>
+	"NodoCola.h"
+
+1731523262 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\nodopila.cpp
+	<iostream>
+	"NodoPila.h"
+
+1732622396 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\pasajero.cpp
+	<iostream>
+	"Pasajero.h"
+
+1732811934 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\pila.cpp
+	<iostream>
+	<iomanip>
+	"Pila.h"
+	"Pasajero.h"
+
+1733599570 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\arbol.cpp
+	"Arbol.h"
+	"NodoArbol.h"
+	<string>
+	<iostream>
+
+1733599489 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\arbol.h
+	<string>
+	"NodoArbol.h"
+
+1732718782 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\nodoarbol.h
+	<string>
+	"ListaPasajeros.h"
+
+1732721712 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\nodoarbol.cpp
+	"NodoArbol.h"
+	"ListaPasajeros.h"
+	<iostream>
+
+1732717262 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\celdalistapas.cpp
+	"CeldaListaPas.h"
+
+1732717262 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\celdalistapas.h
+	"Pasajero.h"
+
+1733599489 source:c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\src\listapasajeros.cpp
+	"ListaPasajeros.h"
+	<iostream>
+	<iomanip>
+
+1733599489 c:\users\lucía\documents\universidad\curso 3 cuatri 1\eedd\parte_3_actual\include\listapasajeros.h
+	"CeldaListaPas.h"
+
+1733602169 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<algorithm>
+	<limits>
+	"Pasajero.h"
+	"Pila.h"
+	"Aeropuerto.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\pasajero.h
+	<string>
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\pila.h
+	"Pasajero.h"
+	"NodoPila.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\nodopila.h
+	"Pasajero.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\aeropuerto.h
+	<vector>
+	"Pila.h"
+	"Cola.h"
+	"Box.h"
+	"Lista.h"
+	"Arbol.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\cola.h
+	"NodoCola.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\nodocola.h
+	"Pasajero.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\box.h
+	<iostream>
+	"Pasajero.h"
+	"Cola.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\lista.h
+	"CeldaLista.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\celdalista.h
+	"Box.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\arbol.h
+	<string>
+	"NodoArbol.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\nodoarbol.h
+	<string>
+	"ListaPasajeros.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\listapasajeros.h
+	"CeldaListaPas.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\include\celdalistapas.h
+	"Pasajero.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\celdalistapas.cpp
+	"CeldaListaPas.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\cola.cpp
+	<iostream>
+	<iomanip>
+	"Cola.h"
+	"NodoCola.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\listapasajeros.cpp
+	"ListaPasajeros.h"
+	<iostream>
+	<iomanip>
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\nodoarbol.cpp
+	"NodoArbol.h"
+	"ListaPasajeros.h"
+	<iostream>
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\nodocola.cpp
+	<iostream>
+	"NodoCola.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\parte_3_actual (6)\parte_3_actual\src\nodopila.cpp
+	<iostream>
+	"NodoPila.h"
+
+1733609854 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<algorithm>
+	<limits>
+	"Pasajero.h"
+	"Pila.h"
+	"Aeropuerto.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\pasajero.h
+	<string>
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\pila.h
+	"Pasajero.h"
+	"NodoPila.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\nodopila.h
+	"Pasajero.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\aeropuerto.h
+	<vector>
+	"Pila.h"
+	"Cola.h"
+	"Box.h"
+	"Lista.h"
+	"Arbol.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\cola.h
+	"NodoCola.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\nodocola.h
+	"Pasajero.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\box.h
+	<iostream>
+	"Pasajero.h"
+	"Cola.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\lista.h
+	"CeldaLista.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\celdalista.h
+	"Box.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\arbol.h
+	<string>
+	"NodoArbol.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\nodoarbol.h
+	<string>
+	"ListaPasajeros.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\listapasajeros.h
+	"CeldaListaPas.h"
+
+1733602170 c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\include\celdalistapas.h
+	"Pasajero.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\aeropuerto.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Aeropuerto.h"
+	"Pasajero.h"
+	"Pila.h"
+	"Cola.h"
+	"Lista.h"
+	"Box.h"
+	"Arbol.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\arbol.cpp
+	"Arbol.h"
+	"NodoArbol.h"
+	<string>
+	<iostream>
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\box.cpp
+	"Box.h"
+	<iostream>
+	"Pasajero.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\celdalista.cpp
+	"CeldaLista.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\celdalistapas.cpp
+	"CeldaListaPas.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\cola.cpp
+	<iostream>
+	<iomanip>
+	"Cola.h"
+	"NodoCola.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\listapasajeros.cpp
+	"ListaPasajeros.h"
+	<iostream>
+	<iomanip>
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\nodoarbol.cpp
+	"NodoArbol.h"
+	"ListaPasajeros.h"
+	<iostream>
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\nodocola.cpp
+	<iostream>
+	"NodoCola.h"
+
+1733602171 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\nodopila.cpp
+	<iostream>
+	"NodoPila.h"
+
+1733602172 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\pasajero.cpp
+	<iostream>
+	"Pasajero.h"
+
+1733602172 source:c:\users\mosth\onedrive\documentos\001.universidad\01. gii. grado en ingeniería informática\tercero (2024-2025)\1er cuatrimestre\2. estructuras de datos\laboratorio\práctica2_labeedd\practica2 v2.5\parte_3_actual\src\pila.cpp
+	<iostream>
+	<iomanip>
+	"Pila.h"
+	"Pasajero.h"
+
