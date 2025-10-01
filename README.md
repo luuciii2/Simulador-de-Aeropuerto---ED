@@ -54,5 +54,10 @@ g++ -std=c++17 -O2 -o aeropuerto.exe src/\*.cpp
 
 .\\aeropuerto.exe
 
+### macOS / Linux (g++)
+```bash
+g++ -std=c++17 -O2 -o aeropuerto src/*.cpp
+./aeropuerto
+
 
 
